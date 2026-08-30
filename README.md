@@ -2,4 +2,4 @@
 ## A second-level heading
 ### A third-level heading
 **this is bold**
-~~this was mistaken text ~~
+~~This was mistaken text~~

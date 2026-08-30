@@ -3,3 +3,4 @@
 ### A third-level heading
 **this is bold**
 ~~This was mistaken text~~
+_A third-level heading_
